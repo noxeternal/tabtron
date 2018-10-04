@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "Tabbed Electron",
   "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
   "repository": "https://github.com/noxeternal/tabtron",
   "author": "Michael Rice",
   "license": "MIT",
