@@ -1,0 +1,13 @@
+{
+  "name": "tabtron",
+  "version": "0.1.0",
+  "description": "Tabbed Electron",
+  "main": "index.js",
+  "repository": "https://github.com/noxeternal/tabtron",
+  "author": "Michael Rice",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^3.0.2",
+    "electron-tabs": "^0.9.4"
+  }
+}
